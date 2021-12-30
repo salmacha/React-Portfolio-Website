@@ -28,6 +28,7 @@ const Intro = () => {
         <div className="i-left-wrapper">
           <h2 className="i-intro">Hello, My name is</h2>
           <h1 className="i-name">Clara ARNAULT</h1>
+          {/* Clara ARNAULT */}
           <h3>
             And I'm a <span ref={textRef}></span>
           </h3>
